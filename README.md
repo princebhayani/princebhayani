@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/princebhayani)   [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prince__bhayani) 
 
-![](https://github-readme-stats.vercel.app/api?username=princebhayani1902&theme=radical&hide_border=false&include_all_commits=false&count_private=false&hide=contribs,prs&rank_icon=percentile)<br/>
+![](https://github-readme-stats.vercel.app/api?username=princebhayani1902&theme=radical&hide_border=false&include_all_commits=false&count_private=false&hide=contribs,prs&rank_icon=percentile&show_icons=true)<br/>
 
 
 # 💻 Tech Stack
