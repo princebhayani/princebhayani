@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/princebhayani)   [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prince__bhayani) 
 
-![](https://github-readme-stats.vercel.app/api?username=princebhayani1902&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=princebhayani1902&theme=radical&hide_border=false&include_all_commits=false&count_private=false&hide=contribs,prs&rank_icon=percentile)<br/>
 
 
 # 💻 Tech Stack
@@ -24,6 +24,6 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 #
-![](https://github-readme-streak-stats.herokuapp.com/?user=princebhayani1902&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=princebhayani1902&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=princebhayani1902&theme=radical&hide_border=false&card_width=500px)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=princebhayani1902&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=500px&langs_count=6)
 ---
