@@ -9,7 +9,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=princebhayani1902&theme=radical&hide_border=false&include_all_commits=false&count_private=false&hide=contribs,prs&rank_icon=percentile&show_icons=true)<br/>
 
 
-# 💻 Tech Stack
+# 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -27,4 +27,3 @@
 | <a href="https://github.com/princebhayani1902/github-readme-streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princebhayani1902&theme=radical&hide_border=true&" alt="Prince's github stats" /></a> | <a href="https://github.com/princebhayani1902/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princebhayani1902&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#
