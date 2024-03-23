@@ -2,9 +2,7 @@
 
 👨🏻‍🎓Studying Computer Science at the Amity University Mumbai, India <br>
 👨🏻‍💻Software Engineer sharing about my journey and learnings in tech <br>
-📄 Know about my experiences [resume link](resume link) <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/princebhayani)   [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prince__bhayani) 
 
 ![](https://github-readme-stats.vercel.app/api?username=princebhayani1902&theme=radical&hide_border=false&include_all_commits=false&count_private=false&hide=contribs,prs&rank_icon=percentile&show_icons=true)<br/>
 
