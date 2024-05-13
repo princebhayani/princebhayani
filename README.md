@@ -2,7 +2,7 @@
 
 👨🏻‍🎓Studying Computer Science at Amity University Mumbai, India <br>
 👨🏻‍💻Software Engineer sharing about my journey and learnings in tech. <br>
-💬Ask me about React and Node or MERN stack. <br>
+💬Ask me about MERN stack. <br>
 🌱Learning Next.js and Web3. <br>
 
 
