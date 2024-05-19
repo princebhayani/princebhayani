@@ -27,7 +27,7 @@
 
  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)   ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
  
-| <div>![GitHub Streak](https://streak-stats.demolab.com/?user=princebhayani1902&theme=buefy&hide_border=true&)</div> | <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princebhayani1902&layout=compact&theme=buefy&hide_border=true" /></div> |
+| <div>![GitHub Streak](https://streak-stats.demolab.com/?user=princebhayani1902&theme=buefy&hide_border=true)</div> | <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princebhayani1902&layout=compact&theme=buefy&hide_border=true" /></div> |
 | ------------- | ------------- |
 
 #
