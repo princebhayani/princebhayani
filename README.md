@@ -1,10 +1,9 @@
-<h1 align="center">👋 Hi, I'm Prince Bhayani</h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"  width="40" height="40" />Hi, I'm Prince Bhayani</h1>
 
 👨🏻‍🎓Studying Computer Science at Amity University Mumbai, India <br>
 👨🏻‍💻Software Engineer sharing about my journey and learnings in tech. <br>
 💬Ask me about MERN stack. <br>
 🌱Learning Next.js and Web3. <br>
-
 
 | ![](https://github-readme-stats.vercel.app/api?username=princebhayani1902&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&rank_icon=percentile&show_icons=true)<br/> |  <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princebhayani1902&layout=compact&theme=buefy&hide_border=true" /></div> |
 | ------------- | ------------- |
