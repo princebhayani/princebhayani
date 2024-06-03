@@ -5,7 +5,7 @@
 💬Ask me about MERN stack. <br>
 🌱Learning Next.js and Web3. <br>
 
-| ![](https://github-readme-stats.vercel.app/api?username=princebhayani1902&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&rank_icon=percentile&show_icons=true)<br/> |  <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princebhayani1902&layout=compact&theme=buefy&hide_border=true" /></div> |
+| ![](https://github-readme-stats.vercel.app/api?username=princebhayani&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&rank_icon=percentile&show_icons=true)<br/> |  <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princebhayani&layout=compact&theme=buefy&hide_border=true" /></div> |
 | ------------- | ------------- |
 #
 ### 🖥️ Tech Stack:
