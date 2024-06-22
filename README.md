@@ -5,8 +5,7 @@
 💬Ask me about MERN stack. <br>
 🌱Learning Next.js and Web3. <br>
 
-| ![](https://github-readme-stats.vercel.app/api?username=princebhayani&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&rank_icon=percentile&show_icons=true)<br/> |  <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princebhayani&layout=compact&theme=buefy&hide_border=true" /></div> |
-| ------------- | ------------- |
+![](https://github-readme-stats.vercel.app/api?username=princebhayani&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&rank_icon=percentile&show_icons=true)<br/> 
 #
 ### 🖥️ Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -24,6 +23,34 @@
 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
- 
+
+| <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princebhayani&" alt="princebhayani1902" /></div> |  <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princebhayani&layout=compact&theme=buefy&hide_border=true" /></div> |
+| ------------- | ------------- |
 <p align="right"><img src="https://komarev.com/ghpvc/?username=princebhayani1902&color=blueviolet&&style=flat&label=👁️" /></p>
 
+#
+#### My Repositories
+<a href="https://github.com/princebhayani/Chat-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=princebhayani&repo=Chat-App&theme=buefy&show_owner=true" />
+</a>
+<a href="https://github.com/princebhayani/Real-Estate-MERN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=princebhayani&repo=Real-Estate-MERN&theme=buefy&show_owner=true" />
+</a>
+<br />
+<br />
+<a href="https://github.com/princebhayani/Java-DSA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=princebhayani&repo=Java-DSA&theme=buefy&show_owner=true" />
+</a>
+<a href="https://github.com/princebhayani/100xDevs-Cohort">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=princebhayani&repo=100xDevs-Cohort&theme=buefy&show_owner=true" />
+</a>
+<br />
+<br />
+<a href="https://github.com/princebhayani/Blog-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=princebhayani&repo=Blog-App&theme=buefy&show_owner=true" />
+</a>
+<a href="https://github.com/princebhayani/Visual-Chat-Media">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=princebhayani&repo=Visual-Chat-Media&theme=buefy&show_owner=true" />
+</a>
+<br />
+<br />
