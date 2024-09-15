@@ -3,7 +3,7 @@
 👨🏻‍🎓Studying Computer Science at Amity University Mumbai, India <br>
 👨🏻‍💻Software Engineer sharing about my journey and learnings in tech. <br>
 💬Ask me about MERN stack. <br>
-🌱Learning Next.js and Web3. <br>
+🌱Currently mastering Next.js and Docker. <br>
 
 ![](https://github-readme-stats.vercel.app/api?username=princebhayani&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&rank_icon=percentile&show_icons=true)<br/> 
 #
