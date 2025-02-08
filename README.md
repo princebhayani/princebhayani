@@ -27,35 +27,3 @@
 | <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princebhayani&" alt="princebhayani1902" /></div> |  <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princebhayani&layout=compact&theme=buefy&hide_border=true" /></div> |
 | ------------- | ------------- |
 <p align="right"><img src="https://komarev.com/ghpvc/?username=princebhayani1902&color=blueviolet&&style=flat&label=👁️" /></p>
-
-#
-#### My Repositories
-<div align="center">
-    <div style="display: flex; justify-content: space-between; "> 
-      <a href="https://github.com/princebhayani/Blog-App">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=princebhayani&repo=Blog-App&theme=buefy&show_owner=true" />
-      </a>
-      <a href="https://github.com/princebhayani/Visual-Chat-Media">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=princebhayani&repo=Visual-Chat-Media&theme=buefy&show_owner=true" />
-      </a>
-    </div>
-     <br />
-    <div style="display: flex; justify-content: space-between; "> 
-      <a href="https://github.com/princebhayani/Chat-App">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=princebhayani&repo=Chat-App&theme=buefy&show_owner=true" />
-      </a> 
-      <a href="https://github.com/princebhayani/Real-Estate-MERN">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=princebhayani&repo=Real-Estate-MERN&theme=buefy&show_owner=true" />
-      </a> 
-    </div>
-    <br />
-    <div style="display: flex; justify-content: space-between; "> 
-      <a href="https://github.com/princebhayani/Java-DSA">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=princebhayani&repo=Java-DSA&theme=buefy&show_owner=true" />
-      </a>
-      <a href="https://github.com/princebhayani/100xDevs-Cohort">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=princebhayani&repo=100xDevs-Cohort&theme=buefy&show_owner=true" />
-      </a>
-    </div>
-    <br />
-  </div>
