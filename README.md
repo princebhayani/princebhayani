@@ -61,7 +61,7 @@ Outside of tech, I enjoy history and geology, and I’m interested in nature and
 
 ![](https://github-readme-stats.vercel.app/api?username=princebhayani&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&rank_icon=percentile&show_icons=true)<br/> 
 #
-| <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princebhayani&" alt="princebhayani1902" /></div> |  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=princebhayani&show_icons=true&theme=radical&border=none) |
+| <div><img align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=princebhayani" alt="princebhayani" /></div> |  <div><img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=princebhayani&show_icons=true" alt="princebhayani" /></div> |
 | ------------- | ------------- |
 
 _Check out my [web](https://princeb.dev) !!_
